@@ -1,0 +1,1 @@
+//Reimplement Array.prototype.map
