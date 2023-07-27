@@ -39,3 +39,12 @@ function newStack() {
 */
 
 // 4)
+/*
+function delegate(object, method, ...additionalArgs) {
+  return function () {
+    return object[method].apply(object, additionalArgs);
+  };
+}
+*/
+
+// 5)
