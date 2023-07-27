@@ -18,3 +18,24 @@ function myBind(func, context, ...additionalArgs) {
 */
 
 // 3)
+/*
+function newStack() {
+  let stack = [];
+  return {
+    push(item) {
+      stack.push(item);
+    },
+
+    pop() {
+      let lastItem = stack.pop();
+      return lastItem;
+    },
+
+    printStack() {
+      stack.forEach((item) => `${console.log(item)}\n`);
+    },
+  };
+}
+*/
+
+// 4)
